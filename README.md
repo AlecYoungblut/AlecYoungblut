@@ -8,4 +8,10 @@ I am currently actively seeking employement as a full stack developer, if you've
 
 Please take some time to look at some of my pinned personal projects or some of my learning "playground" repositories.
 
-[![Alec's github stats](https://github-readme-stats.vercel.app/api?username=AlecYoungblut)](https://github.com/AlecYoungblut)
+
+Contact Info:
+
+[<img src="https://img.icons8.com/color/452/apple-mail.png" width="30" height="30" >](mailto:me@alecyoungblut.ca)
+[<img src="https://img.icons8.com/ultraviolet/344/domain.png" width="30" height="30" >](https://alecyoungblut.github.io/personal-website/)
+[<img src="https://img.icons8.com/fluent/344/linkedin.png" width="32" height="32" >](https://www.linkedin.com/in/alecyoungblut/)
+[<img src="https://img.icons8.com/ultraviolet/452/open-resume.png" width="30" height="30" >](http://alecyoungblut.ca/resume.pdf)
