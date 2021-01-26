@@ -7,7 +7,6 @@ I throughly enjoy all aspects of programming and problem solving and I am confid
 I am currently actively seeking employement as a full stack developer, if you've stumbled upon this profile and wish to speak further or for more information, please do not hesitate to reach out!
 
 Please take some time to look at some of my pinned personal projects or some of my learning "playground" repositories.
-
 [<img src="https://img.icons8.com/color/452/apple-mail.png" width="34" height="34" >](mailto:me@alecyoungblut.ca)
 [<img src="https://img.icons8.com/ultraviolet/344/domain.png" width="30" height="30" >](https://alecyoungblut.github.io/personal-website/)
 [<img src="https://img.icons8.com/fluent/344/linkedin.png" width="32" height="32" >](https://www.linkedin.com/in/alecyoungblut/)
