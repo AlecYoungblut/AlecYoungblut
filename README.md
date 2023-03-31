@@ -10,4 +10,4 @@ Please take some time to look at some of my pinned personal projects or some of 
 
 [<img src="https://img.icons8.com/color/452/apple-mail.png" width="34" height="34" >](mailto:me@alecyoungblut.ca)
 [<img src="https://img.icons8.com/fluent/344/linkedin.png" width="32" height="32" >](https://www.linkedin.com/in/alecyoungblut/)
-[<img src="https://icons8.com/icon/HKdmFbFm7xQV/upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely" width="32" height="32" >](https://www.upwork.com/freelancers/~018bdd17b2d52e1bbf)
+[<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" width="32" height="32" >](https://www.upwork.com/freelancers/~018bdd17b2d52e1bbf)
